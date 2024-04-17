@@ -27,3 +27,6 @@ L'équipe du Groupe Hecquet commence souvent ses journées par une courte réuni
 
 Pour ceux qui sont nouveaux au projet, nous recommandons de commencer par lire notre guide d'introduction au [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) pour mieux comprendre comment contribuer efficacement à notre dépôt.
 
+![GitHub stars](https://img.shields.io/github/stars/GroupeHecquet/mon-repo?style=social)
+![GitHub forks](https://img.shields.io/github/forks/GroupeHecquet/mon-repo?style=social)
+![GitHub contributors](https://img.shields.io/github/contributors/GroupeHecquet/mon-repo)
